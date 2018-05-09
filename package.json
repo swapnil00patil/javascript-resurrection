@@ -1,0 +1,22 @@
+{
+  "name": "javascript-resurrection",
+  "version": "1.0.0",
+  "description": "Facts explored/learned during the javascript journey",
+  "main": "asyncAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil00patil/javascript-resurrection.git"
+  },
+  "author": "Swapnil Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil00patil/javascript-resurrection/issues"
+  },
+  "homepage": "https://github.com/swapnil00patil/javascript-resurrection#readme",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
